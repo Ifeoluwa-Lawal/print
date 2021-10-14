@@ -1,3 +1,5 @@
-#THIS IS A SYSTEMIC PROJECT ON WRITING PRINTF FUNCTIONS#
+##THIS IS A SYSTEMIC PROJECT ON WRITING PRINTF FUNCTIONS##
 
-##My codes written by myself and Jolly Abu Daniel my partner##
+Codes written by LAWAL Ifeoluwa and Jolly Abu Daniel
+
+Open the Printf Folder above and enjoy (^_^)
